@@ -1,5 +1,7 @@
 # NeuroMedic: Deep Learning-Based MRI Classification for Brain Tumor Detection
 
+## Medium.com : [Article](https://medium.com/@adityan.srinivasan/neuromedic-deep-learning-based-mri-classification-for-brain-tumor-detection-98f0c123cfd5)
+
 ## Overview
 NeuroMedic is a deep learning model designed for automated brain tumor detection using MRI scans. It leverages a Convolutional Neural Network (CNN) to classify MRI images into tumor and non-tumor categories, achieving high accuracy through preprocessing and data augmentation.
 
